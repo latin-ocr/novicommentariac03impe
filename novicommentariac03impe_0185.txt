@@ -1,0 +1,42 @@
+NVMERORVM. ζ 139
+
+tes inaequales ‚ reducitur ad solutionem alius Problematis
+iam supra commemorati· , quo quaeritur, quot variis modis
+quilibet uumerus ex aliquot terminis huius progreffionis
+Arithmeticae 1 ‚ 2, 3 , 4, 5 ,· etc. per additionem
+produci possit. Hacque posteriore quaestione 'resoluta ᾗ·
+mul prior resoluetur. Quod vt clarius explicemus, noua
+figua ad (ommim-em ‚expressionem adhibeamus. De-
+notet ergo haec scriptio:
+
+.n(²) numerum casuum, quibus numerus n ex duobus nu-
+meris 1 , ·2 per additionem formari poffit.
+
+‚n'ffl denotet niune-rum castium , quibus numerus n ex
+his numeris 1 ‚ 2 ‚ 3 per additionem formari poffit.
+
+Et nm) denotet numerum casuum , quibus :numerus n
+ex his numeris 1 , 2 , :3 ‚ .. . . :m per additionem pro-
+duci poffit. Cum igitur valores huiusmodi charaeterum
+fuerint definiti, quod deinceps praeshtbimus, Problema
+propositum ita resoluetur. Si quaeratur scilicet , quot va-
+riis modis numerus N in m partes inaequales dispertiri
+poffit; numerus casuum quaefitus exprimetur hoc chara-
+
+ 
+
+ 
+
+(m)
+&ere (N — Μίῗῗὲ) ‚ quippe quo indicatur , quot va· Ἰ
+riis modis numerus N -mtqu ex his numeris 1 2 2 ,
+3 , ..... m per additionem produci poffit.
+
+ξ. 20. Ad hanc eandem quaestionem quoque re-
+ducitur solutio alterius Problematis a Celeb. Naudeo pro·
+positi, quam ob rem expediet, et hoc Problema ante re·
+iolui , quam ampliorem characterum modo affumtorum
+euolutionem suscipiamus , fic enim tria Problemata ‚ quae
+
+S 2 inter
+

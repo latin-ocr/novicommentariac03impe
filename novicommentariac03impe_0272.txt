@@ -1,0 +1,32 @@
+⁸²⁴. 453}ss- θ’ »3235ss
+SOLVTIO
+PROBLEMATIS GEOMETRICI.
+
+nvem
+L. EULERO ,
+
+problema.
+
+vfflvDatis Diametris coniugatis Ee , F s enipfistam magni·
+5¹⁸· ¹· tudine quam positione ‚ inuenixe axes coniugatus
+tam magnitudine quam longitudine.
+
+Construffio.
+
+Iungatur E F , et ex centm ellipfis C ducatur κᾶε
+CG ita vt ang q: FCGzang: ECF3 tumve-iuqatmj
+FG ita vt ang: CFGzangzcEF3 ficque triangu-
+lum C FG fimile fiat *gulo C E F. Deinde iunffl
+eG angulus CeG bisecetur reeta eH ‘huicque ex centro
+C parallela educatur C Ι, huicque constituatur perpendi-
+cularis C K , quibus recta per E alteri diametro F s pa-
+mllela. asta IEK occurrat in ,punitis l et K. Ex E
+porro tam in CI quarn C K demittantur perpendicula
+E L et EM , atque in C1 capiatur C A media pro-
+portionalis inter C L et C 1 , itemque in C K capiatur
+C B media proportionalis inter C M et C K , erunt C Α
+et C B semiaxes principales ‚tam pofitione quam magni-
+tudine ‚ determinati.
+
+Ana
+

@@ -1,0 +1,47 @@
+DETERMINATIONE. 43
+
+meris aequales este queant. Interim tamen etiamst innumera-
+biles termini generales pro hac serie exhiberi queant, tamen ii
+omnes in lege quadam generali continentur, atque fine diuina-
+tione per analyfin inueniri poffunt. Methodus scilicetla-
+tiffime patens tradi potest , cuius ope omnium strictum,
+quarum termini per antecedentes , s1ue fine indice , siue
+cum indice , definiuntur , terminos generales vniuersaliffime
+inueniri licet: quam methodum, cum non solum plenio-
+rem serierum cognitionem suppeditet, sed etiam non con·
+temnenda analyseos augmenta complectatur , hic diligen·
+tius euoluere constitui: quem in finem sequentia proble-
+mata pertrastabo.
+
+Problema.
+
+§. 12. Inuenire terminum generalem seriei,cuius quili-
+bet terminus aequalis fit antecedenti, terminus vero pri-
+mus z 1.
+
+Solutio.
+
+Sit terminus generalis seu is, qui indici x respon-
+det : y , ac ponatur terminus sequens , (cuius index
+,ἶ x -ι- 1 ) :ys debebitque effe y' :y3 ac pofito x
+z 1 , fieri debety: 1. Cum iarn fity quaepiam .
+funetio ipsius x, per naturam calculi differentialis , sl lo-
+co x ponatur „vcd ’9-1- ι , fiet:
+
+y'-y÷⁶‘y —i-. ‘'dy- 2,—i— Μ- 5³2——
+-- {dx ωαχ ,ψει-1η, x* -l-etc.
+
+sumto differenti-ali d x constante. Quocirca esse debet:
+
+Ο ’.Τ-ἶ ,ἐξιεῖ ἰ’-ἶ ddi-*y χτ-Ι-’ῒάἷέχκῆ- ,dy—*524 “l'‘ etc.
+
+Haecque aequatio omncs omn no (arisi tenentes valores
+ipsius y continet ,dummodo integratio ita temperetur , vt
+posito x :- 1 fiat y z 1 , scu quod eodem redit , vt
+
+F 2 posito
+
+ 
+
+ 
+

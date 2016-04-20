@@ -1,0 +1,37 @@
+2³2 SOLVTIO
+
+ωε coniugata ad C F , tangensque in F ab axibus prin-
+dpalibus in G et H secatur, else rcc‘tangulum FG,
+F Η aequale quadrato ipsius C E. Duas crgo habemus
+conditiones , quibus circulus quaesitus per C et ambo de·
+fidemta tangentis puncta G et Η transiturus determinatur:
+altera vt quod eius centrum in iplz't hac rest-1 GH si-
+tum effe debet ‚ altera vero quod reetangulum F G,
+F H quadrato ipsius C E aequale elle debet. Tranieat
+isse circulus etium nunc incognitus per rectae C F pro·
+duc'tae punctum K. et quia erit CF. F K :- F G. F H,
+erit quoque CF. F K r: C E' ‚ ideoque F 1< tertia pro*
+portionalis ad C F et C E quarum cnm vtmque sit data,
+innotescet puuctum K et circulus quaesitus transire debet
+per pumsta C et K ‚ im vt eius centrum in restam GH
+cadat. Rsecta ergo C K in L , eique in L iuncta nor·
+mali L1 restam G H in 1 lecante erit l centum cir-
+culi quaesiti, ex quo circulus radio l C vel 11< delcri·
+ptus rectam G H in punCtis quaesitis secabit3 quae est
+Puppi constructio.
+
+Sequens autem constructio simplicior videtur quam
+hactenus allatae ‚ quoniam non solum axium principalium
+positionem scd etiam quantitatem sponte exhibet, atque
+omnes operationes, quibus opus est ‚ iam in se com-
+plcCtitur , ita vt ne mediae quidem proportionalis sum-
+tione indigeamus.
+
+Noua Construffia
+
+Pmblematis propositi.
+
+fig. 6. Sint C E , C F semim-..metri coniugatae propositae
+ad angulum acutum E C F inclinatae , ad quas conaplcnlpeir
+para ·
+

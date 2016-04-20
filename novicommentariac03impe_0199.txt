@@ -1,0 +1,41 @@
+NVMERORVM. 153
+
+Erit ergo sto et m::20‚ vnde N-mz60‚
+et partitionum numerus erit: :t 60(²0) z 791131.
+
+ξ. 37. In seriebus horizontalibus ‚ quas tabulassx·
+hibet notatu digna est conuenientia inter terminos ‘initiales
+harum serierum , quae eo longius procedit , quo maior
+fuerit numerus m: fic series decima quinta quindecim su·
+os terminos initiales curn omnibus seriebus sequentibus ha-
+bet communes. Hine inueniri poterit senes, quae nu-
+mero m in infinitum auito respondet ‚ quae ergo conti-
+nebit valores huius formulae n('‘ 3 quae denotat ‚ quot va-
+riis modis numerus n ‚ ex omnibus prorsus numeris inte-
+gris per additionem produci poffit. Haec ergo quaestio
+digna videtur, quae diligentius euoluatur. Cum 720») com-
+plectatur omnes omnino partitiones numeri n , pro quo-
+cunque partium numero fimul sumtas: erit n(“’) aggrega-
+tum ex numeris partitionum. in 1 , 2 , 3 ‚ 4 , . . - vsque
+ad n parteS‚ fiue aequam, siue inaequales 3 quia numerus n in
+plures quam n partes secari nequit. Quam ob rem erit:
+
+n( ‘⁶ ’:(n-1)<¹’÷(n-2)(²)‡-{-(n-3)<³)-—†-(n—4)(⁴)—÷-(n—5>¹⁵²4- . .. . .
+
+in qua serie tam primus terminus (n—1)(¹), qui denotat
+stftionem in vnam partem, quam Vltimus-<n-n)(⁷²',qui
+denotat sestionem in n partes, est vnitas. Hinc igitur
+series numerorum n(‘'' ) , quae in calce tabulae exhibetur
+per additionem terminorum ex superioribus seriebus inueniri
+potest· Sic erit 3 6( ⁹):5(¹)‚†-4(2)÷3(3)÷2(⁴)÷ 1(⁵),}-0(6J
+:14-34—3-4—2-4-1-4—1113 ‚ qui numerus in infi-
+ma tabulae strie sub numero 6 habetur.
+
+§. 3 8. Potest autem haec operatio contrahi ope Lem-
+matis supra inuenti n('⁷¹³:n(⁷'¹*·¹)—-}—(nm-mm), vnde fit
+714⁷'¹)—>n('⁷¹·‘’¹):(n—nl)(''¹).
+
+Tom. 111. Nov. Comment. V Cum
+
+(nnn) θ’)
+

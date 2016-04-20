@@ -1,0 +1,49 @@
+DETERMINATIONE. 53
+
+du ddu d'u αμα
+0 :- m-t- axvi-,1:232 -I- izmaff -I‘ etc.
+
+Quae aequatio cum conueniat cum ea , quam in proble-
+'rnate praecedente inuenimus: si ponamus fin. π x Ξ r et
+cos. π x :z s: erit u funstio quaecunque parium dimensio-
+num ipfiurum r et s , cuiusmodi §. XVIII. exhibuim1153
+hacque inuenta erit terminus generalis quaesitus y :z A
+-4— gx -Js-u, dummodo constans A ita definiatur ‚ vt
+posito xz-a fiatyzza Ω. Ε. Ι.
+
+Problema. ΙΙΙ.
+
+§ 23. Inuenire terminum generalem seriei, cuius
+quilibet terminus prodeat, si praecedens per datum nume-
+rum m multiplicetur , et cuius terminus primus sit Ξ a.
+
+ 
+
+SolutiO.
+
+Termini ergo huius seriei, qui indices habent in-
+tegros ‚ sequentem progressionem Geometricam consti-
+tuent ε
+
+1 2 3 4 5 6
+
+a, ma3 m²a3 m³a3 m⁴a3 m⁵a3 ete.
+ita vt indici integro x respondeat terminus am'ffinj. Sit
+igitur generatim y terminus indici x, et ys terminus
+indici x —t- 1 conueniens: eritque y‘ Ξ my. At est
+
+,γ’ :y -i- ,ἒξ-4- ῗῖἶῗῖπ '-†- ffiyfx-i- T,2d3⁴ffd2⁴—}- etc. :my.
+
+Ad hanc aequationem resoluendum , ponatur secundum
+praecepta data 1 pro y3 z profi-{3 z² pro 2233 etc. vt
+prodeat stquens aequatIO Algebraica:
+
+ 
+
+24
+
+m z 1 -ἢ- } —f— ffi—ff-ff34-„MJ -1- etc.
+G 3 cuius
+
+ 
+

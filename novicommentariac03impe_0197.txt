@@ -1,0 +1,48 @@
+NVMERORVM. ι ς ι
+
+§- 33. Ope huius tabufoe. deinde ambo Problemata
+Cel. Naudei expedite resolui possunt. Ac primo quidem
+fi quaeratur , quot variis modis datus numerus N in m
+partes inter je inaequales dispertiri poffit , hoc fiet ‚ vtisu-
+pra ostendimus ‚ tot modis ‚ quotfflnitates continentur in hac
+expreffione ( N — ⁷¹²('⁷¹2'“'')(⁷⁷¹¹ quam tabula indicat.
+
+Vsum igitur huius tabulae aliquot exemplis osten-
+damus.
+
+I. „Quae-ratur ‚ quot variis modis numerus 2 ς in quin·
+que partes inaequales dispertiri poffit3
+Erit ergo hic Nz25 et mzs , vnde Q': 15
+et responsum continebit formula 10(⁵) ‚ quae ex tabula ·
+est z 30 ita vt partitio 30 modis institui poffit:
+11. Quaeratur, quot variis modis numerus 50 in 7 par-
+tes inaequales dispertiri poffit3
+Hic est sto, m::7 et N—-m‘mfflz 22, vn·
+de numerus partitionum quaesitus est z 220) z 522.
+III. Quaeratttr, quot valiis modis numerus 100 in 10
+partes inaequales dffpertiri poffitZ
+Cum fit N ;-. 100 et m-:xo erit N—m(⁷'‡÷¹':
+45 et numerus partitionum reperietur 4500) z 3 3401.
+lV. Quaeratur , quot diuerlis modis numerus 256 in
+20 partes inaequales dispertiri poffit3
+Ob N3256 et m: 20 erit N-— „
+numerus partitionum fiet z: 46<²0): 96271.
+V. ⁸Quat-atur , quot diueaefis modis numerus 270 in 20
+partes inaequales dispertiri poffit3
+Ob N :270 et m: 20 erit N—m(⁷'¹‚'⁴‘¹'
+
+ 
+
+ 
+
+ 
+
+ 
+
+''fimf-¹³ z 46 ‚ et
+
+ 
+
+z 60 ‚
+ideo·
+

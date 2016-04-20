@@ -1,0 +1,36 @@
+-ΒΕΤΕΗΜΙΝΑΠΟΝΕ, 41
+
+tertio genere non solum omnes termini, qui indicibusin-
+tegris respondent, assignantur , scd etiam lex praescribi-
+tur inter terminum quemuis eiusque antecedentes, quae
+ad terminos indicum fractorum aeque patet, tamen-ne
+hoc quidem modo series penitus determinatur, sed pro
+qualibet serie huius generis infiniti* termini generales ex-
+hiberi poffunt , qui dum eosdem terminos pro indicibus
+integris praebent, tamen pro frae'tis dissentiunt.
+
+ξ. 9. Quod cum merito maxime paradoxon vi-
+deatur, operae pretium erit , hunc determinationis defeetum
+in seriebus , quarum quisque terminus ex antecedentibus
+definitur, diligentius perpendere. Sumamus ergo ca-
+·surn simplicissimum , seriemque ita definiri concipiamus,
+vt quilibet terminus aequalis sit antecedenti ipsi. Quodfi
+iam primus seriei terminus statuatur z: 1 , secundus quo-
+que erit z: 1 , omnesque sequentes , qui indicibus integris
+respondent , vnitati aequabuntur , nasceturque haec series:
+
+Indic: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, etc.
+Term: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, etc.
+atque manifestum est, indici cuicunque integro x responde-
+re terminum Ξ 1. Quemadmodum autem termini in·
+dicibus fruetis respondentes se sint habituri, hinc non de-
+finitur: hoc tantum constat, si terminus indici ξ respon-
+dens fuerit z a omnes quoque terminos , qui indicibus
+ξ, ξ, Ξ, {³ etc. conueniunt, fore z a. Omnes enim
+terminos, quorum indices vnitate , vel aliquot vnitatibus ,
+differunt, per legem praescriptam inter se aequales effe
+oportet: quia antecedens quisque terminus intelligitur is ‚
+
+cuius index est vnit-„ite minor.
+Tom. 111. Nov, Commeat, F ξ. 10.
+

@@ -1,0 +1,37 @@
+)(15 )(
+
+gundum numeri alicuius dati diuisorem parum auxilii
+trahi potest: hinc aliam viam ‚ quae aliquando plus iub-
+fidii subministrabit ‚ tentat , quamuis Arithmetica tali for.-
+mula generali vnica destituatur ‚ quae numeros primos
+omnes succeffiue exhibeat. Tandem omnia exemplis illu-
+⁷strat , et , quo modo diuisorem expiscari poffit ‚ inquirite
+
+DE PARTlTIONE NVMERORVM
+AVCTORE L. EVLERO.
+
+rohlema de partitione numerorum Austori quondam a
+
+Cl. Profeffore Berolinerfi Naudaeo fuit oblatum , qui
+pro casu speciali quaesiuerat , quot variis modis numerus
+50 in septem partes dispertiri poffit. Problema hoc pri-
+‘mo intuitu ita comparatum videbatur , vt aliter 'nifi per
+inductionem* resolui non poffet ‚ quo fere modo pleraque
+problemata ad artem combinatoriam pertinentia resolui
+so'lent. Qui scilicet eius solutionem suscipere velit, pri—
+mo quaeret , quot variis modis quisque in duas partes
+discerpi point, vbi quidem nullam difficultatem offendet,
+deinde procedet ad diuisionem in tres partes ‚ quod nego-
+tium etiam nunc (atis commode succedet. In diuisione
+in quatuor partes fortaffe iam haerebit, neque statim per-
+spiciet , quomodo numerus partitionum cum numero par·-
+tiendo increscat ‚ induetione tamen fretus , et hanc pro
+greffionis legem diuinabit, Quinque partitio ipsiiam ma-
+iores creabit molestius, ac nisi omni circumspectione
+Vtatur, verendum est, ne inductioni , vtcunque certa ipsi
+videatur , nimis confidens iu errorem inducatur3 quod eo
+magis est pertimescendum in partitione in plures pzirtes3
+vti etiam ipie problematis Auctor fuit seductus , et pro
+
+“ casu
+

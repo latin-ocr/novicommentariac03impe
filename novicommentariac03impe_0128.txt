@@ -1,0 +1,38 @@
+ε, DE ,SERIERVM
+
+nem pro summa cuiusque seriei, cuius terminus generalis
+datur, quae autem ob multitudinem integralium infinitam
+rarissime vsum aliquem* praestabit.
+
+Scholion.
+
+ς. 58. Si praeter functionem quamcunque indicis x ,
+non solum terminus proxime praecedens ‚ sed plumes prae-
+cedentium , ad formationem termini lequenris adhibeantur,
+simili modo peruenierur ad resolutionem aequationis difle-
+rentialis infinitae , quae ope methodi a me proptfitae
+tmdtari poterit. Non solum igitur series ‚ quarum lex for-·
+marionis ad genus pertinet secundum ‚ methodo hic ex-
+posita ad calculum reuocari, earumque termini generales
+inueniri possunt, sed etiam ad genus tertium aeque patet ,
+istarumque serierum veram indolem clarius ob oculos ponit.
+
+Problema X.
+
+ς. 59. Inuenire terminum generalem sei·iei,· cuius
+quilibet terminus aequalis sir praecedenti per suum indi·
+cem multiplicato.
+
+SolutiO.
+
+Si terminus primus vnitnti aequalis statuatur ‚ orietur
+Walliu' series Hypcrgeometrica haec 2
+ind:*1‚2,:3,4, 5) 6) 7) 8) 9)
+term: 1, ἰ , 2 , 6 , 24 , 120, 720, 5040 , 40:³20,
+Pomtin- terminus indici x , respondens :y , cumque lequens
+’.εγ , erit ,γ’ :3 y x , vnde naleitur haec aequatio :
+
+y x L:
+
+etc.
+

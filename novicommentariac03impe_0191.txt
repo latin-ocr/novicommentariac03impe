@@ -1,0 +1,39 @@
+NVMERORVM. . ης
+
+riis modis in m partes ‚ fiue aequales , fiue inaequales disper-
+tiri potest ‚quot modis numerus n ex numeris 1 ‚ 2, 3 , .. .. m,
+per additionem produci potest.
+
+ξ. 27. Pendet ergo et hoc Problema a solutione
+quaestionis , qua quaeritur , quot variis modis datus nume-2
+rus ex aliquot terminis initialibus huius seriei 1 , 2 , 3 ,
+4, etc. per additionem resultare poffit. Si igitur vt su-
+pra haec scribendi ,formula Nm) denotet numerum modo-
+rum , quibus numerus N ex numeris 1 ‚ 2 , 3 ‚ ..... m
+per additionem componi potest , seu quibus numerus N
+in partes quotcunque distribui potiit, quarum nulla maior
+fit numero m3 huius modi characteribus et hoc Proble-
+ma propositum relolui poterit. Scilicet nm) indicabit ‚
+quot variis modis numerus n -ι- m in m partes ‚ fiue ae.
+quales , fiue inaequales dispertiri poffit. Hinc fi quaeratur ‚
+quot modis numerusN in partes m, fiue aequales ‚ fine in-
+aequales distribui poffit , numerum modorum quaefitum in-
+dicabit haec formula (N — m )(⁷'¹). Si 'igitur hoc Proble-
+ma cum praecedente conferatur ‚ perspicuum erit ‚ numerum
+
+n -†- m totidem modis in m partes ‚ slue aequales ‚ fiue in.
+
+aequales distribui posse , quot modis numerus n-g-OE'Z—-ffilin
+
+m partes inaequales dispertiri poffit.
+
+ξ. 28. Solutio ergo amborum Problematum aCel.
+Naztdeo propositorum huc reuocatur ‚ vt definiatur ‚ quot
+variis modis numerus quicunque n ex his numeris 1, 2 ,
+3 ..... m. per additionem produci poffit3 seu vt inue-
+stigetnr valor characteris nm). Quemadmodum ergo hoc
+nouum Problema ex formulis iam ante inuentis commo-
+diffime resolui queat , videamus. Ac primo quidem , fi
+
+Tom. 111. Nov. Comment. T sit
+

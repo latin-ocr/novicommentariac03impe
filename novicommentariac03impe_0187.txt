@@ -1,0 +1,46 @@
+NVMERORVM. ¹4¹
+
+cuius seriei quilibet coefficiens indicat, quot variis modis
+eprnens potestatis ipfiuS x adiunctae in duas partes di-
+spertiri poffit. Hac igitur serie in infinitum continuata ,
+Problematis propositi casus , quo partitio in duas pattes
+requiritur,¹ facile resoluitur.
+
+§. 22. Quantitas porro C , cum contineat omnia
+producta ‚ quae oriuntur terminis ternis seriem& ‚ flue in-
+aequalibus fiue aequalibus inuicem multiplicandis ‚ consta-
+bit ex serie potestatum ipsuis x ‚ quarum exponentes sint
+fiimmae trium numerorum integrorum affirmatiuorum. At-
+que eadem potestas x⁷‘ toties in strie C occurret .' quo-
+ties eius exponens n ex tribus numeris ‚ fiue aequalibus .,
+
+fine inaequalibus per additionem resultare potest. Erit
+autem:
+
+sz³÷x⁴÷ 2x⁵—l-3x‘-l-4x' »ds-5 x·—†-7x⁹-—l- 8x¹⁰÷ x 0x¹ ¹4- ete-,J
+cuius strici quilibet coefficiens indicat, quot variis modis
+exponens potestatis ipsius x ad-iundtae in tres partes, fiue
+aequam, fine inaequales dispertiri poffit. Sic ex termino
+
+'8⁷x¹⁰ colligitur, numerum 10 octo modis diuerffis in tres
+
+partes secari poffe ‚ quae partitiones sunt:
+
+ 
+
+10·:1-}—1-†-8 10:2—3-2-4-6
+1011÷2÷7 1032÷3÷5
+1011÷3÷6 10:2—-1—4—l-4
+10:1—l—4-†-5 1013÷3÷4
+
+ 
+
+1sta igitur series C in infinitum con’tinuata omnibus nu-
+meris in tres partes dispertiendis inseruiet.
+
+§. 23. Simili modo quantitas D, cum contineat
+omnia producta ex quatuor terminis strici Azx—l—x⁸
+fl-.v³-l—x⁴—l- etc. eiusdem termini repetitione non ex-
+
+,5 3 εὶιιίῖι;.
+
